@@ -18,6 +18,3 @@ Install using a userscript manager like [Tampermonkey](https://www.tampermonkey.
 
 Twitch's front page often features autoplaying video content with audio, which can be disruptive. This script gives you a cleaner, quieter experience.
 
-## License
-
-Distributed under the GNU GPLv3 License. See LICENSE file for more information.
