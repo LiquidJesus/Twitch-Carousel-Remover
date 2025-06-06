@@ -12,7 +12,7 @@
 Install using a userscript manager like [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/)
 
 1. Click [here to install](https://github.com/LiquidJesus/twitch-carousel-remover/releases/download/v1.0.0/twitch-carousel-remover.user.js)
-2. Approve the script in your userscript manager.
+2. Press "Install" in your userscript manager.
 
 ## Why?
 
