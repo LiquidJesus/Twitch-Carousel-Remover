@@ -11,7 +11,7 @@ A lightweight userscript that removes Twitch's front page carousel and mutes its
 
 Install using a userscript manager like [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/)
 
-1. Click [here to install](https://raw.githubusercontent.com/LiquidJesus/twitch-carousel-remover/main/twitch-carousel-remover.user.js)
+1. Click [here to install](https://raw.githubusercontent.com/LiquidJesus/twitch-carousel-remover/main/twitch-carousel-remover.js)
 2. Press "Install" in your userscript manager.
 
 ## Why?
