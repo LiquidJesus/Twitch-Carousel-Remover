@@ -20,4 +20,4 @@ Twitch's front page often features autoplaying video content with audio, which c
 
 ## License
 
-Distributed under the GNU GPLv3 License. See LICENSE.txt for more information.
+Distributed under the GNU GPLv3 License. See LICENSE file for more information.
