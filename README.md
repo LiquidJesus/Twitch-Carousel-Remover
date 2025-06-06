@@ -16,5 +16,5 @@ Install using a userscript manager like [Tampermonkey](https://www.tampermonkey.
 
 ## Why?
 
-Twitch's front page often features autoplaying video content with audio, which can be disruptive. This script gives you a cleaner, quieter experience.
+Twitch's front page often features autoplaying video content with audio, which can be annoying. This script gives you a cleaner, quieter experience.
 
