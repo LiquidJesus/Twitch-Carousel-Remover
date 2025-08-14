@@ -1,13 +1,13 @@
 # Twitch Front Page Carousel Remover
 
-![Screenshot](screenshot.png)
-
 A lightweight userscript that removes Twitch's front page carousel and mutes its audio autoplay.
+
+![Screenshot](screenshot.png)
 
 ## Features
 
 -  Removes the front page carousel video.
--  Automatically mutes its audio.
+-  Automatically pauses the video from autoplaying.
 
 ## Installation
 
