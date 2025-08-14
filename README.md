@@ -4,11 +4,6 @@ A lightweight userscript that removes Twitch's front page carousel and mutes its
 
 ![Screenshot](screenshot.png)
 
-## Features
-
--  Removes the front page carousel video.
--  Automatically pauses the video from autoplaying.
-
 ## Installation
 
 Install using a userscript manager like [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/)
