@@ -20,9 +20,9 @@ You'll need a userscript manager installed in your browser:
 
 | Browser | Recommended Manager |
 |---------|-------------------|
-| Chrome/Edge | [Tampermonkey](https://www.tampermonkey.net/) |
-| Firefox | [Violentmonkey](https://violentmonkey.github.io/) |
-| Safari | [Userscripts](https://github.com/quoid/userscripts) |
+| Chrome/Edge | [Violentmonkey](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) or [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) |
+| Firefox | [Violentmonkey](https://addons.mozilla.org/en-CA/firefox/addon/violentmonkey/) or [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) |
+| Safari | [Userscripts](https://apps.apple.com/us/app/userscripts/id1463298887) |
 
 ### Install the Script
 
