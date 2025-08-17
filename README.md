@@ -1,8 +1,6 @@
 # Twitch Front Page Carousel Remover
-
-A lightweight userscript that removes Twitch's front page carousel.
-
 ![Screenshot](screenshot.png)
+A lightweight userscript that removes Twitch's front page carousel.
 
 ## Installation
 
