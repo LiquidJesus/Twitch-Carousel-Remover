@@ -1,7 +1,7 @@
 # Twitch Front Page Carousel Remover
 
 [![Install](https://img.shields.io/badge/Install-Userscript-brightgreen)](https://raw.githubusercontent.com/LiquidJesus/twitch-carousel-remover/main/twitch-carousel-remover.user.js)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-GPL3-blue.svg)](LICENSE)
 > A userscript that removes Twitch's front page carousel of auto-playing streams.
 
 ![Screenshot](screenshot.png)
