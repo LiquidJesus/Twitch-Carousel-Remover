@@ -2,7 +2,7 @@
 
 [![Install](https://img.shields.io/badge/Install-Userscript-brightgreen)](https://raw.githubusercontent.com/LiquidJesus/twitch-carousel-remover/main/twitch-carousel-remover.user.js)
 [![License](https://img.shields.io/badge/License-GPL3-blue.svg)](LICENSE)
-> Userscript that removes Twitch's front page carousel of auto-playing streams.
+### A Userscript that removes Twitch's front page carousel of auto-playing streams.
 
 ![Screenshot](screenshot.png)
 
