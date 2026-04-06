@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Twitch Front Page Carousel Remover
-// @version      1.7
+// @version      1.3
 // @icon         https://img.icons8.com/?size=100&id=VJpqTKPYvnx2&format=png&color=000000
 // @description  Removes front page carousel and mutes its audio
 // @author       LiquidJesus
@@ -11,37 +11,34 @@
 (function() {
     'use strict';
 
-    let carouselFound = false;
-
     function nukeCarousel() {
-        if (carouselFound) return;
-
         document.querySelectorAll('[class*="carousel"]').forEach(el => {
             if (el.querySelector('video')) {
-                // Mute videos
                 el.querySelectorAll('video').forEach(v => {
                     v.muted = true;
                     v.volume = 0;
                     v.pause();
+                    // Remove the src so the damn audio can't restart anymore
+                    v.src = '';
+                    v.load();
                 });
-
-                // Hide carousel
                 el.style.display = 'none';
-                carouselFound = true;
             }
         });
     }
 
+    // Nuke the carousel as twitch loads
     nukeCarousel();
 
-    // Check every 100ms for up to 5 seconds or until found
-    let checks = 0;
-    const interval = setInterval(() => {
+    // Then watch the entire document for any new nodes being added.
+    // And if there are new nodes, then show them meaning of scorched earth
+    const observer = new MutationObserver(() => {
         nukeCarousel();
-        checks++;
+    });
 
-        if (carouselFound || checks >= 50) {
-            clearInterval(interval);
-        }
-    }, 100);
+    observer.observe(document.body, {
+        childList: true,
+        subtree: true
+    });
+
 })();
