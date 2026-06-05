@@ -8,20 +8,17 @@
 
 ##  Installation :
 
- 1. **[Click here to install](https://raw.githubusercontent.com/LiquidJesus/twitch-carousel-remover/main/twitch-carousel-remover.user.js)**
-2. Your userscript manager will open automatically
-3. Click **"Install"** to confirm
-4. Navigate to Twitch and enjoy the silence and less clutter
+1. **[Click Here To Install](https://raw.githubusercontent.com/LiquidJesus/twitch-carousel-remover/main/twitch-carousel-remover.user.js)** - *Or click the .js file on the releases page*
 
----
+2. Your userscript manager will open a new page asking to install.
 
-> [!NOTE]
-If you need a userscript manager, you can find some good ones below.
-    
+3. Press **"Install"** to finish the installation.
+
+##
+###  *If you don't have a userscript manager, here are some recommended ones.*
+
 | Browser | Recommended Manager |
 |---------|-------------------|
 | Chrome/Edge | [Violentmonkey](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) or [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) |
 | Firefox | [Violentmonkey](https://addons.mozilla.org/en-CA/firefox/addon/violentmonkey/) or [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) |
 | Safari | [Userscripts](https://apps.apple.com/us/app/userscripts/id1463298887) |
-
----
